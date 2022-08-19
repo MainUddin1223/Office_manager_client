@@ -1,0 +1,21 @@
+ul {
+    list-style: none;
+}
+
+.header-div {
+    width: 75%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navigation-list {
+    display: flex;
+}
+
+.navigation-list li {
+    margin: 0 5px;
+    padding: 0 10px;
+    cursor: pointer;
+}
